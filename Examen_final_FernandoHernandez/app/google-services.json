@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779913706814",
+    "project_id": "fernando-hernandedesantamaria",
+    "storage_bucket": "fernando-hernandedesantamaria.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779913706814:android:44f5f940fb6ab5a050c06f",
+        "android_client_info": {
+          "package_name": "com.example.examen_final_fernandohernandez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJpGVTZGXzWiNg5vRLJUaVCl-_RY5HWFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
